@@ -4,7 +4,11 @@
 
 91 算法是一个为期 91 天的大家一起打卡的活动, 大家可以一起做和学习带有讲解和按照专题的算法题。
 
-## 主要编程语言
-老师使用的语言主要是 Python/JavaScript...
+## 基础篇
 
-本人暂定使用 C++ 来完成。
+### 数组，栈，队列
+
+#### 每日一题
+
+-   [x] [【day-01】66.加一](./basic/array-stack-queue/01.plus-one.md)
+-   [x] [【day-02】821.字符的最短距离](./basic/array-stack-queue/02.shortest-distance-to-a-character.md)
